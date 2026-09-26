@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#0B0F14</color>
+    <color name="surface">#161B22</color>
+    <color name="text_primary">#F3F4F6</color>
+    <color name="text_secondary">#9CA3AF</color>
+    <color name="on">#22C55E</color>
+    <color name="off">#4B5563</color>
+    <color name="badge_on_bg">#12351F</color>
+    <color name="badge_off_bg">#1F2937</color>
+    <color name="card_blue">#60A5FA</color>
+    <color name="card_orange">#FBBF24</color>
+    <color name="card_purple">#A78BFA</color>
+    <color name="card_teal">#2DD4BF</color>
+    <bool name="light_bars">false</bool>
+</resources>

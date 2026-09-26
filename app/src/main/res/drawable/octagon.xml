@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Regular octagon with softly rounded corners (round-joined stroke of the same color). Tint to color it. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp" android:height="100dp"
+    android:viewportWidth="100" android:viewportHeight="100">
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="6"
+        android:strokeLineJoin="round"
+        android:pathData="M97,30.53 L69.47,3 L30.53,3 L3,30.53 L3,69.47 L30.53,97 L69.47,97 L97,69.47 Z" />
+</vector>
